@@ -1,0 +1,25 @@
+[31-Aug-2019 01:33:26 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\phpStudy\PHPTutorial\WWW\untitled\test.php on line 30
+[31-Aug-2019 01:39:57 UTC] PHP Notice:  Undefined variable: _SESSION in C:\phpStudy\PHPTutorial\WWW\untitled\error.php on line 8
+[31-Aug-2019 01:39:57 UTC] PHP Stack trace:
+[31-Aug-2019 01:39:57 UTC] PHP   1. {main}() C:\phpStudy\PHPTutorial\WWW\untitled\error.php:0
+[31-Aug-2019 01:40:08 UTC] PHP Notice:  Undefined index: $error_type in C:\phpStudy\PHPTutorial\WWW\untitled\error.php on line 10
+[31-Aug-2019 01:40:08 UTC] PHP Stack trace:
+[31-Aug-2019 01:40:08 UTC] PHP   1. {main}() C:\phpStudy\PHPTutorial\WWW\untitled\error.php:0
+[31-Aug-2019 01:40:09 UTC] PHP Notice:  Undefined index: $error_type in C:\phpStudy\PHPTutorial\WWW\untitled\error.php on line 10
+[31-Aug-2019 01:40:09 UTC] PHP Stack trace:
+[31-Aug-2019 01:40:09 UTC] PHP   1. {main}() C:\phpStudy\PHPTutorial\WWW\untitled\error.php:0
+[31-Aug-2019 01:40:09 UTC] PHP Notice:  Undefined index: $error_type in C:\phpStudy\PHPTutorial\WWW\untitled\error.php on line 10
+[31-Aug-2019 01:40:09 UTC] PHP Stack trace:
+[31-Aug-2019 01:40:09 UTC] PHP   1. {main}() C:\phpStudy\PHPTutorial\WWW\untitled\error.php:0
+[31-Aug-2019 01:40:20 UTC] PHP Notice:  Undefined index: $error_type in C:\phpStudy\PHPTutorial\WWW\untitled\error.php on line 10
+[31-Aug-2019 01:40:20 UTC] PHP Stack trace:
+[31-Aug-2019 01:40:20 UTC] PHP   1. {main}() C:\phpStudy\PHPTutorial\WWW\untitled\error.php:0
+[31-Aug-2019 01:40:21 UTC] PHP Notice:  Undefined index: $error_type in C:\phpStudy\PHPTutorial\WWW\untitled\error.php on line 10
+[31-Aug-2019 01:40:21 UTC] PHP Stack trace:
+[31-Aug-2019 01:40:21 UTC] PHP   1. {main}() C:\phpStudy\PHPTutorial\WWW\untitled\error.php:0
+[31-Aug-2019 01:40:21 UTC] PHP Notice:  Undefined index: $error_type in C:\phpStudy\PHPTutorial\WWW\untitled\error.php on line 10
+[31-Aug-2019 01:40:21 UTC] PHP Stack trace:
+[31-Aug-2019 01:40:21 UTC] PHP   1. {main}() C:\phpStudy\PHPTutorial\WWW\untitled\error.php:0
+[31-Aug-2019 01:40:33 UTC] PHP Notice:  Undefined index: $error_type in C:\phpStudy\PHPTutorial\WWW\untitled\error.php on line 10
+[31-Aug-2019 01:40:33 UTC] PHP Stack trace:
+[31-Aug-2019 01:40:33 UTC] PHP   1. {main}() C:\phpStudy\PHPTutorial\WWW\untitled\error.php:0

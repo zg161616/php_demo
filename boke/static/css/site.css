@@ -1,0 +1,84 @@
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: #563d7c;
+}
+.body{
+    margin: 0px;
+    padding:0px;
+}
+.header .title{
+    font-size: 18px;
+    line-height: 50px;
+    color: #ffffff;
+    float:left
+}
+.header .search{
+    width: 300px;
+    float:left;
+    line-height: 50px;
+    margin-left: 50px;
+}
+.header .search input{
+    float:unset;
+}
+.header .login-reg{
+    float:right;
+    margin-left: 50px;
+    line-height: 50px;
+}
+.header .login-reg button{
+    padding: 6px 25px!important;
+    margin:0px 15px;
+}
+.main {
+    border: 1px solid;
+    min-height: 800px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    width: 80%;
+    margin-top: 50px;
+    text-align: left;
+}
+.main .left-container{
+    border-right: 1px solid;
+    min-height: 800px;
+    font-size: 15px;
+    margin-top: 20px;
+    color: #666;
+}
+.cates-item{
+    margin: 10px 0px;
+}
+.main .nav a{
+    float:right;
+    color:#666;
+    padding:0 10px;
+    margin-top: 30px;
+}
+.main .nav .active{
+    font-weight: bold;
+    border-bottom: 2px solid;
+}
+.content-item{
+    float:left;
+    width:100%;
+}
+.content-item img{
+    width:40px;
+    border-radius: 6px;
+    margin: 10px 0;
+    float:left;
+}
+.content-item .title{
+    float:left;
+    font-size: 12px;
+    color:#666;
+    margin:0 5px;
+}
+.content-item p{
+    margin:10px 0;
+}
+.content-item span{
+    margin-right: 5px;
+}

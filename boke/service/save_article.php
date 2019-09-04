@@ -4,7 +4,7 @@ $data['title']=trim($_POST['title']);
 $data['cid']=(int)$_POST['cid'];
 $data['keyword']=$_POST['keywords'];
 $data['description']=$_POST['desc'];
-$data['contents']=htmlspecialchars(trim($_POST['content'],true));
+$data['contents']=(htmlspecialchars(trim($_POST['content']),true));
 session_start();
 $user=$_SESSION['user'];
 $data["uid"]=$user['id'];
